@@ -9,9 +9,13 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
 ![Node](https://img.shields.io/badge/Node.js-22+-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Security](https://img.shields.io/badge/Security-Red%20Team-red)
 ![AI](https://img.shields.io/badge/AI-Agentic%20Automation-purple)
+![Tools](https://img.shields.io/badge/Security%20Tools-150+-brightgreen)
+![Agents](https://img.shields.io/badge/Autonomous%20Agents-12+-blueviolet)
+![Gateway](https://img.shields.io/badge/Gateway-Local%20Only-lightgrey)
+![API](https://img.shields.io/badge/API-OpenRouter-orange)
+![Telegram](https://img.shields.io/badge/Control-Telegram-2CA5E0)
 
 </div>
 
