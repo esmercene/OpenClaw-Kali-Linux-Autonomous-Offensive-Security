@@ -33,16 +33,6 @@ Built for **authorized security research, labs, and educational environments onl
 ---
 
 
-
-
-
-
-# OpenClaw Kali Offensive Security Agent
-
-AI-powered autonomous agent framework running on Kali Linux for
-offensive security research, red team automation, OSINT, reconnaissance,
-and tool orchestration.
-
 ------------------------------------------------------------------------
 
 ## ⚠ Legal & Ethical Notice
