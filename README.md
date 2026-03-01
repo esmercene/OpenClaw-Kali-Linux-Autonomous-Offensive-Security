@@ -1,3 +1,40 @@
+<div align="center">
+
+<img src="openclaw.png" width="120" alt="OpenClaw Logo"/>
+<img src="kali.png" width="120" alt="Kali Linux Logo"/>
+
+# OpenClaw AI Agents
+
+### AI-Powered Offensive Security Agent Framework for Kali Linux
+
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+![Node](https://img.shields.io/badge/Node.js-22+-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+![Security](https://img.shields.io/badge/Security-Red%20Team-red)
+![AI](https://img.shields.io/badge/AI-Agentic%20Automation-purple)
+
+</div>
+
+---
+
+## 🚀 Overview
+
+OpenClaw is an AI-powered autonomous agent framework designed to run on **Kali Linux**, enabling:
+
+- AI-assisted reconnaissance  
+- Automated tool orchestration  
+- OSINT pipelines  
+- Controlled red team automation  
+- Telegram-controlled execution  
+- Agentic security research  
+
+Built for **authorized security research, labs, and educational environments only.**
+
+---
+
+
+
+
 # OpenClaw Kali Offensive Security Agent
 
 AI-powered autonomous agent framework running on Kali Linux for
