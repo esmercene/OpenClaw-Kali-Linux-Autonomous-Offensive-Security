@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="" width="120" alt="OpenClaw Logo"/>
-<img src="" width="120" alt="Kali Linux Logo"/>
+<img src="openclaw.png" width="120" alt="OpenClaw Logo"/>
+<img src="kali.png" width="120" alt="Kali Linux Logo"/>
 
 # OpenClaw Kali Offensive Security Agent
 
